@@ -8,7 +8,7 @@
 
 ### [PrintStation API US Dev](https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net)
   * [https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net](https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net)
-  * 
+  
 ### [Fulfillment US Production](https://dbgfulapp.z19.web.core.windows.net)
   * [https://dbgfulapp.z19.web.core.windows.net](https://dbgfulapp.z19.web.core.windows.net)
 
