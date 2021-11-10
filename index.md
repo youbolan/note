@@ -4,7 +4,7 @@
 
 
 ### [Fulfillment App US Dev](https://dbgfulfillmentappdev.z19.web.core.windows.net)
-  * [https://wmsappdev.digitbridge.com](https://wmsapp.digitbridge.com)
+  * [https://wmsappdev.digitbridge.com](https://wmsappdev.digitbridge.com)
   * [https://dbgfulfillmentappdev.z19.web.core.windows.net](https://dbgfulfillmentappdev.z19.web.core.windows.net)
 
 ### [PrintStation API US Dev](https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net)
