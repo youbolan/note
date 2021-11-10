@@ -11,6 +11,7 @@
   * [https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net](https://digitbridge-fulfillment-printstation-api-dev.azurewebsites.net)
   
 ### [Fulfillment US Production](https://dbgfulapp.z19.web.core.windows.net)
+  * [https://wmsapp.digitbridge.com](https://wmsapp.digitbridge.com)
   * [https://dbgfulapp.z19.web.core.windows.net](https://dbgfulapp.z19.web.core.windows.net)
 
 ### [PrintStation Installation US Production](https://dbgfulinstallweb.z19.web.core.windows.net/)
