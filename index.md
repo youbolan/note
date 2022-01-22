@@ -12,6 +12,7 @@
   
 ### [Fulfillment US Production](https://dbgfulapp.z19.web.core.windows.net)
   * [https://wmsapp.digitbridge.com](https://wmsapp.digitbridge.com)
+  * [https://wmsapp.digitbridge.com/smart](https://wmsapp.digitbridge.com/smart)
   * [https://dbgfulapp.z19.web.core.windows.net](https://dbgfulapp.z19.web.core.windows.net)
   * [https://wmsapp.digitbridge.com/smart](https://wmsapp.digitbridge.com/smart)
 
