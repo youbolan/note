@@ -19,5 +19,8 @@
 ### [PrintStation Installation US Production](https://dbgfulinstallweb.z19.web.core.windows.net/)
   * [https://dbgfulinstallweb.z19.web.core.windows.net](https://dbgfulinstallweb.z19.web.core.windows.net/)
 
+### [QuickPrint Installation US Production](https://dbgquickprintinstall.z19.web.core.windows.net/)
+  * [https://dbgquickprintinstall.z19.web.core.windows.net/](https://dbgquickprintinstall.z19.web.core.windows.net/)
+
 ### [PrintStation API US Production](https://digitbridge-fulfillment-printstation-api.azurewebsites.net)
   * [https://digitbridge-fulfillment-printstation-api.azurewebsites.net](https://digitbridge-fulfillment-printstation-api.azurewebsites.net)
