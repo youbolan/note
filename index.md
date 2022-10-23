@@ -16,8 +16,8 @@
   * [https://dbgfulapp.z19.web.core.windows.net](https://dbgfulapp.z19.web.core.windows.net)
   * [https://wmsapp.digitbridge.com/smart](https://wmsapp.digitbridge.com/smart)
 
-### [PrintStation Installation US Dev](https://dbgfulinstallweb.z19.web.core.windows.net/)
-  * [https://dbgfulinstallweb.z19.web.core.windows.net/](https://dbgfulinstallweb.z19.web.core.windows.net/)
+### [PrintStation Installation US Dev](https://dbgfulprintinstallstodev.z19.web.core.windows.net/)
+  * [https://dbgfulprintinstallstodev.z19.web.core.windows.net/](https://dbgfulprintinstallstodev.z19.web.core.windows.net/)
 
 ### [PrintStation Installation US Production](https://dbgfulinstallweb.z19.web.core.windows.net/)
   * [https://dbgfulinstallweb.z19.web.core.windows.net](https://dbgfulinstallweb.z19.web.core.windows.net/)
