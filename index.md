@@ -27,3 +27,8 @@
 
 ### [PrintStation API US Production](https://digitbridge-fulfillment-printstation-api.azurewebsites.net)
   * [https://digitbridge-fulfillment-printstation-api.azurewebsites.net](https://digitbridge-fulfillment-printstation-api.azurewebsites.net)
+
+
+### [Stamps.com registration](https://registration.stamps.com/registration/#!&p=profile)
+    https://registration.stamps.com/registration/#!&p=profile
+    In the “Promo Code Field”, your customers will enter your new promo code: DGTB
