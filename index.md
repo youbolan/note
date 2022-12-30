@@ -32,4 +32,4 @@
 ### [Stamps.com registration](https://registration.stamps.com/registration/#!&p=profile)
    *  [https://registration.stamps.com/registration/#!&p=profile]( https://registration.stamps.com/registration/#!&p=profile)
    
-    In the “Promo Code Field”, your customers will enter your new promo code: DGTB
+    In the “Promo Code Field”, enter your new promo code: DGTB
